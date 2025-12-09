@@ -6,22 +6,6 @@ I'm an Agentic AI Product Manager at AWS and parent building AI-powered solution
 
 I create **autonomous AI agents** that don't just respond to commands — they proactively solve problems, analyze patterns, and provide intelligent recommendations.
 
-## 🎯 Featured Project
-
-### 🍼 [MomOps - Autonomous Baby Care Agent](https://github.com/ndgbg/fun-agentic-apps/tree/main/momops-agent)
-
-An intelligent AI agent that continuously monitors baby care patterns and provides proactive recommendations. Built with Kiro's AI-powered development environment.
-
-**What makes it special:**
-
-- 🤖 Autonomous pattern monitoring
-- 💡 Proactive recommendations with reasoning
-- 🎯 Goal-oriented planning
-- 📊 Sleep & feeding analytics
-- 👥 Caregiver coordination tools
-
-**Tech Stack:** React 18, Vite, LocalStorage
-
 ## 💻 Focus Areas
 
 - Autonomous AI Agents
