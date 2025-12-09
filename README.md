@@ -1,6 +1,6 @@
 # Hi there, I'm Nida 👋
 
-I'm a Product Manager and parent building AI-powered solutions for real-world problems. I believe in using technology to make life easier and more efficient.
+I'm an Agentic AI Product Manager at AWS and parent building AI-powered solutions for real-world problems. I believe in using technology to make life easier and more efficient.
 
 ## 🚀 What I'm Building
 
