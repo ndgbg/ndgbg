@@ -45,12 +45,12 @@ Comprehensive collection of working demos:
 - Observability & monitoring
 - Cost optimization
 
-## 📊 Impact
+## 📊 Focus
 
-- Deployed agents handling **1M+ queries/month**
-- Achieved **85% cost reduction** in customer support
-- **450% ROI** in first year for enterprise deployments
-- **<3 second** average response times at scale
+- Production-scale agent deployments
+- Cost optimization and efficiency gains
+- Enterprise-grade reliability and performance
+- Real-world business value delivery
 
 ## 🛠️ Tech Stack
 
