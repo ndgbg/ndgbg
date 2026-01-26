@@ -71,7 +71,7 @@ If you're getting started with agentic AI:
 ## 💬 Let's Connect
 
 - **GitHub**: [@ndgbg](https://github.com/ndgbg)
-- **LinkedIn**: [Your LinkedIn]
+- **LinkedIn**: [linkedin.com/in/nida-beig](https://www.linkedin.com/in/nida-beig/)
 - **Email**: beig.nida@gmail.com
 
 ## 📈 GitHub Stats
