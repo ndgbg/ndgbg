@@ -59,12 +59,6 @@ Comprehensive collection of working demos:
 **AWS:** EKS, Lambda, API Gateway, EventBridge, CloudWatch  
 **Languages:** Python, SQL
 
-## 📚 Recent Work
-
-- **Framework Comparison Guide**: AgentCore vs LangChain vs CrewAI - helping teams choose the right platform
-- **Multi-Agent Patterns**: 6 proven orchestration patterns from production deployments
-- **Customer Support Case Study**: $2.4M annual savings with 85% query deflection
-
 ## 🎓 Learning Path
 
 If you're getting started with agentic AI:
