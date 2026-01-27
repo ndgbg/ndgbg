@@ -81,3 +81,7 @@ If you're getting started with agentic AI:
 ---
 
 *Building the future of agentic AI, one production deployment at a time.*
+
+---
+
+**Disclaimer:** All views and opinions expressed here are my own and do not represent those of my employer.
