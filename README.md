@@ -28,11 +28,10 @@ Comprehensive collection of working demos:
 - Integration patterns
 
 ### [Fun Agentic Apps](https://github.com/ndgbg/fun-agentic-apps)
-MCP servers that extend AI agents with practical tools:
-- **Parenting helpers**: Baby tracking, sleep schedules, feeding logs
-- **AWS operations**: Cost optimization, security audits, resource management
-- **Knowledge management**: Personal docs with semantic search
-- **Task automation**: Workflow engine with conditions and tracking
+Autonomous AI agents that solve real-world problems:
+- **MomOps Agent**: Parenting operations assistant
+- **Montessori AI Agent**: Educational activity planner
+- Agents that operate independently, reason through problems, and adapt recommendations
 
 ## 💡 Focus Areas
 
