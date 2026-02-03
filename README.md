@@ -27,6 +27,13 @@ Comprehensive collection of working demos:
 - Enterprise use cases
 - Integration patterns
 
+### [Fun Agentic Apps](https://github.com/ndgbg/agentic-playground/tree/main/mcp-servers)
+MCP servers that extend AI agents with practical tools:
+- **Parenting helpers**: Baby tracking, sleep schedules, feeding logs
+- **AWS operations**: Cost optimization, security audits, resource management
+- **Knowledge management**: Personal docs with semantic search
+- **Task automation**: Workflow engine with conditions and tracking
+
 ## 💡 Focus Areas
 
 **Agentic AI Platforms**
