@@ -2,20 +2,14 @@
 
 **Product Manager, Agentic AI, AWS**
 
-I build production agentic AI systems that solve real business problems. I specialize in designing multi-agent architectures that operate autonomously, make intelligent decisions, and deliver measurable business value. My work spans from strategic product vision to hands-on prototyping, bridging the gap between cutting-edge AI capabilities and practical enterprise applications.
-
-With deep expertise in AWS Bedrock, LangGraph, and multi-agent orchestration, I've shipped AI systems that handle complex workflows—from autonomous meeting coordination to intelligent code modernization. I focus on making AI agents reliable, cost-effective, and production-ready at scale.
+I build production agentic AI systems that solve real business problems—from autonomous meeting coordination to intelligent code modernization. My work spans strategic product vision to hands-on prototyping, shipping multi-agent systems on AWS Bedrock, LangGraph, and enterprise frameworks.
 
 ## 🎯 What I Do
 
-I design and ship autonomous AI systems that operate at production scale. My work includes:
-
-- **Multi-Agent Architecture**: Design systems where specialized agents collaborate to solve complex problems
-- **Production Deployment**: Ship AI systems that handle real workloads with reliability and cost-efficiency
-- **Framework Evaluation**: Assess and select AI frameworks (LangGraph, CrewAI, AutoGen) for enterprise use
-- **Business Value Translation**: Bridge technical AI capabilities with measurable business outcomes
-- **Hands-On Prototyping**: Build working demos and proofs-of-concept to validate approaches
-- **Strategic Product Vision**: Define roadmaps for AI products from concept to production
+- Design multi-agent architectures where specialized agents collaborate autonomously
+- Ship production AI systems with measurable ROI and cost-efficiency
+- Evaluate frameworks (LangGraph, CrewAI, AutoGen) for enterprise deployment
+- Bridge AI capabilities with business value through prototyping and roadmaps
 
 ## 🚀 Recent Work
 
