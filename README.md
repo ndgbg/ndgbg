@@ -20,45 +20,24 @@ I design and ship autonomous AI systems that operate at production scale. My wor
 ## 🚀 Recent Work
 
 ### [Fun Agentic Apps](https://github.com/ndgbg/fun-agentic-apps) ⭐ New
-Production-ready autonomous agents solving real-world problems:
-
-**[Calendar Negotiation Agent](https://github.com/ndgbg/fun-agentic-apps/tree/main/calendar-negotiation-agent)**
-- Autonomous meeting coordination across timezones
-- Multi-round negotiation with adaptive strategy
-- Handles objections and rescheduling without human intervention
-- Integrates with Google Calendar, Zoom, and room booking systems
-
-**[MomOps - Baby Care Agent](https://github.com/ndgbg/fun-agentic-apps/tree/main/momops-agent)**
-- Autonomous monitoring of feeding, sleep, and diaper patterns
-- Proactive recommendations before parents need to think about them
-- Learns from user responses and adapts to baby's unique patterns
-- Local-first with optional LLM integration for privacy
-
-**[Home Maintenance Agent](https://github.com/ndgbg/fun-agentic-apps/tree/main/home-maintenance-agent)**
-- Predicts system failures before they happen using ML patterns
-- Optimizes maintenance schedules across 19+ task categories
-- Multi-constraint optimization (cost, time, weather, season)
-- Autonomous decision-making with explainable reasoning
-
-**[Montessori AI Agent](https://github.com/ndgbg/fun-agentic-apps/tree/main/montessori-ai-agent)**
-- Personalized early childhood development activities
-- Continuous learning from engagement patterns
-- Age-appropriate recommendations using Montessori principles
-- Privacy-first with local storage
+Collection of production-ready autonomous agents solving real-world problems:
+- **Calendar Negotiation Agent** - Autonomous meeting coordination with multi-round negotiation
+- **MomOps** - Baby care assistant with predictive recommendations and pattern learning
+- **Home Maintenance Agent** - Predicts failures and optimizes maintenance across 19+ tasks
+- **Montessori AI Agent** - Personalized early childhood development activities
 
 ### [Agentic AI Insights](https://github.com/ndgbg/agentic-ai-insights)
-Strategic insights, patterns, and frameworks for production agentic AI. Includes:
+Strategic insights and frameworks for production agentic AI:
 - Real-world use cases with ROI analysis
 - Framework comparison (AgentCore vs LangChain vs CrewAI)
 - Architectural patterns for multi-agent systems
 - Production deployment lessons learned
 
 ### [Agentic Playground](https://github.com/ndgbg/agentic-playground)
-Comprehensive collection of working demos:
+Working demos and integration patterns:
 - Agent frameworks (LangGraph, CrewAI, AutoGen)
 - AWS Bedrock AgentCore features
-- Enterprise use cases
-- Integration patterns
+- Enterprise use cases and tool integration
 
 ### [Fun Agentic Apps](https://github.com/ndgbg/fun-agentic-apps)
 Autonomous AI agents that solve real-world problems:
