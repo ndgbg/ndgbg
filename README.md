@@ -2,7 +2,7 @@
 
 **Product Manager, Agentic AI, AWS**
 
-I build production agentic AI systems that solve real business problems—from autonomous meeting coordination to intelligent code modernization. My work spans strategic product vision to hands-on prototyping, shipping multi-agent systems on AWS Bedrock, LangGraph, and enterprise frameworks. I design architectures where specialized agents collaborate autonomously, evaluate frameworks for enterprise deployment, and bridge AI capabilities with measurable business value through prototyping and roadmaps.
+I ship production AI systems that solve real business problems. From strategic vision to hands-on prototyping, I build multi-agent architectures on AWS Bedrock and LangGraph that deliver measurable ROI. My work bridges cutting-edge AI capabilities with enterprise needs—designing autonomous systems, evaluating frameworks, and turning prototypes into production deployments.
 
 ## 🚀 Recent Work
 
