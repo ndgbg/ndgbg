@@ -26,16 +26,6 @@ Working demos and integration patterns:
 - AWS Bedrock AgentCore features
 - Enterprise use cases and tool integration
 
-### [Fun Agentic Apps](https://github.com/ndgbg/fun-agentic-apps)
-Autonomous AI agents that solve real-world problems:
-- **MomOps Agent**: Parenting operations assistant
-- **Montessori AI Agent**: Educational activity planner
-- Agents that operate independently, reason through problems, and adapt recommendations
-
-## 💡 Focus Areas
-
-I specialize in AWS Bedrock AgentCore, LangGraph, and multi-agent orchestration for enterprise applications. My work centers on customer support automation, DevOps intelligence, and data analysis agents, with deep focus on production patterns including memory management, tool integration, observability, and cost optimization.
-
 ## 🛠️ Tech Stack
 
 **Frameworks:** LangGraph, CrewAI, AutoGen, Strands Agents  
