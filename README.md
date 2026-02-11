@@ -1,6 +1,6 @@
 # Hi, I'm Nida Beig 👋
 
-**Product Manager | Agentic AI & AWS Bedrock**
+**Product Manager, Agentic AI, AWS**
 
 I build production agentic AI systems that solve real business problems. My focus is on making AI agents practical, scalable, and valuable for enterprises.
 
