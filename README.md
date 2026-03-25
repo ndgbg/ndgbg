@@ -1,6 +1,6 @@
 <h1> Hi, I'm Nida 👋 </h1>
 
-I'm a Product Manager at AWS working on Agentic AI. I spend my days helping teams build production agent systems with Bedrock AgentCore—and my nights prototyping the weird, useful agents I wish existed.
+I'm a Product Manager at AWS where I help enterprises transform legacy systems into intelligent, autonomous workflows powered by agentic AI. By day, I'm turning "that's not possible" into shipped products. By night, I prototype the weird, useful agents I wish existed.
 
 Everything I build ships with code. If it's not runnable, it doesn't leave my repo.
 
