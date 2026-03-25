@@ -1,56 +1,25 @@
-# Hi, I'm Nida Beig 👋
+<h1> Hi, I'm Nida 👋 </h1>
 
-**Product Manager, Agentic AI, AWS**
+I build production AI agents and ship autonomous systems that solve real business problems.
 
-I ship production AI systems that solve real business problems. From strategic vision to hands-on prototyping, I build multi-agent architectures on AWS Bedrock and LangGraph that deliver measurable ROI. My work bridges cutting-edge AI capabilities with enterprise needs—designing autonomous systems, evaluating frameworks, and turning prototypes into production deployments.
+Most of my work is hands-on: multi-agent architectures on AWS Bedrock and LangGraph, framework evaluations, and turning prototypes into enterprise deployments that deliver measurable ROI.
 
-## 🚀 Recent Work
+I maintain [Fun Agentic Apps](https://github.com/ndgbg/fun-agentic-apps), a collection of production-ready autonomous agents—calendar negotiation, predictive home maintenance, baby care assistants, and personalized learning systems.
 
-### [Fun Agentic Apps](https://github.com/ndgbg/fun-agentic-apps) ⭐ New
-Collection of production-ready autonomous agents solving real-world problems:
-- **Calendar Negotiation Agent** - Autonomous meeting coordination with multi-round negotiation
-- **MomOps** - Baby care assistant with predictive recommendations and pattern learning
-- **Home Maintenance Agent** - Predicts failures and optimizes maintenance across 19+ tasks
-- **Montessori AI Agent** - Personalized early childhood development activities
+**What I work on**
 
-### [Agentic AI Insights](https://github.com/ndgbg/agentic-ai-insights)
-Strategic insights and frameworks for production agentic AI:
-- Real-world use cases with ROI analysis
-- Framework comparison (AgentCore vs LangChain vs CrewAI)
-- Architectural patterns for multi-agent systems
-- Production deployment lessons learned
+- Multi-agent systems: orchestration patterns, tool integration, memory, planning
+- AWS Bedrock AgentCore: production deployments, enterprise scaling
+- Framework evaluations: LangGraph, CrewAI, AutoGen, Strands Agents
+- RAG pipelines and agentic retrieval patterns
+- Real-world agents: calendar coordination, home automation, childcare, education
 
-### [Agentic Playground](https://github.com/ndgbg/agentic-playground)
-Working demos and integration patterns:
-- Agent frameworks (LangGraph, CrewAI, AutoGen)
-- AWS Bedrock AgentCore features
-- Enterprise use cases and tool integration
+<h2> About Me </h2>
 
-## 🛠️ Tech Stack
+- **Product Manager, Agentic AI** at AWS—helping developers build, scale, and deploy production AI agents with Bedrock AgentCore.
 
-**Frameworks:** LangGraph, CrewAI, AutoGen, Strands Agents  
-**Platforms:** AWS Bedrock AgentCore, LangChain  
-**AWS:** EKS, Lambda, API Gateway, EventBridge, CloudWatch  
-**Languages:** Python, SQL
+- I write about agentic AI strategy, architecture patterns, and lessons learned from production deployments at [Agentic AI Insights](https://github.com/ndgbg/agentic-ai-insights).
 
-## 🎓 Learning Path
+- Working demos and integration patterns live at [Agentic Playground](https://github.com/ndgbg/agentic-playground).
 
-If you're getting started with agentic AI, explore [Bedrock AgentCore Demo](https://github.com/ndgbg/agentic-playground/tree/main/bedrock-agentcore-demo), understand [Multi-Agent Patterns](https://github.com/ndgbg/agentic-ai-insights/blob/main/patterns/multi-agent-orchestration.md), read the [Framework Comparison](https://github.com/ndgbg/agentic-ai-insights/blob/main/comparisons/framework-comparison.md), and explore [Real Use Cases](https://github.com/ndgbg/agentic-ai-insights/tree/main/use-cases).
-
-## 💬 Let's Connect
-
-- **GitHub**: [@ndgbg](https://github.com/ndgbg)
-- **LinkedIn**: [linkedin.com/in/nida-beig](https://www.linkedin.com/in/nida-beig/)
-- **Email**: beig.nida@gmail.com
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndgbg&show_icons=true&theme=default)
-
----
-
-*Building the future of agentic AI, one production deployment at a time.*
-
----
-
-**Disclaimer:** All views and opinions expressed here are my own and do not represent those of my employer.
+**💬 Building AI agents or exploring multi-agent architectures? Happy to chat—reach out on [LinkedIn](https://www.linkedin.com/in/nida-beig/) or [email me](mailto:beig.nida@gmail.com).**
