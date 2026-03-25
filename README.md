@@ -19,6 +19,6 @@ Everything I build ships with code. If it's not runnable, it doesn't leave my re
 - Framework evaluation—cutting through the hype
 - Making enterprise agent deployments less painful
 
-**Say hi**
+**🤝 Working on something interesting in the agent space? Let's talk—I love nerding out on architecture decisions and what's actually working. Also writing small checks ($25-50k) into early-stage agentic AI startups.**
 
-I like talking to people building agents. [LinkedIn](https://www.linkedin.com/in/nida-beig/) · [Email](mailto:beig.nida@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nida-beig/) · [Email](mailto:beig.nida@gmail.com)
