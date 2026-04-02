@@ -6,11 +6,11 @@ I'm obsessed with developer experience. If it takes more than 3 commands to run,
 
 **Where the code lives**
 
-[Fun Agentic Apps](https://github.com/ndgbg/fun-agentic-apps) — Production-ready agents you can clone and run in minutes. Calendar negotiation, predictive maintenance, baby care tracking, Montessori activities. Each one solves a real problem with real code.
+[Fun Agentic Apps](https://github.com/nida-beig/fun-agentic-apps) — Production-ready agents you can clone and run in minutes. Calendar negotiation, predictive maintenance, baby care tracking, Montessori activities. Each one solves a real problem with real code.
 
-[Agentic AI Insights](https://github.com/ndgbg/agentic-ai-insights) — No fluff, no hype. Framework comparisons, architecture patterns, and production lessons—with code examples and actual numbers.
+[Agentic AI Insights](https://github.com/nida-beig/agentic-ai-insights) — No fluff, no hype. Framework comparisons, architecture patterns, and production lessons—with code examples and actual numbers.
 
-[Agentic Playground](https://github.com/ndgbg/agentic-playground) — 20 production-ready demos across LangGraph, CrewAI, AutoGen, and AWS Bedrock. Clone → install → run. Each demo is documented, tested, and deployable.
+[Agentic Playground](https://github.com/nida-beig/agentic-playground) — 20 production-ready demos across LangGraph, CrewAI, AutoGen, and AWS Bedrock. Clone → install → run. Each demo is documented, tested, and deployable.
 
 **What I care about**
 
